@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there, my name's Klim (skv0zsneg)👋
 
-<!--
-**skv0zsneg/skv0zsneg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been working as a software engineer since 2020. I love my job and programming as it is.
 
-Here are some ideas to get you started:
+It will be great to collaborate! 
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-Contact_Me-blue?link=https%3A%2F%2Ft.me%2Fskv0zsneg">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-Blog_[RUS]-blue?link=https%3A%2F%2Ft.me%2Fskv0zsnegs">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ My Languages and Tools
+<div>
+  <!-- Back -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
+  <!-- Front -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Java Script" alt="Java Script" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Type Script" alt="Type Script" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+</div>
