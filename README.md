@@ -1,4 +1,4 @@
-## Hi there, my name's Klim (skv0zsneg)👋
+## Hi there, my name's Klim aka skv0zsneg👋
 
 I've been working as a software engineer since 2020. I love my job and programming as it is.
 
