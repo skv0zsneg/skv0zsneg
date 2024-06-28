@@ -1,17 +1,17 @@
-## Hi, I'm @skv0zsneg (Kliment Lamonov) 👋
+## Hi, I'm `skv0zsneg` (Kliment Lamonov) 👋
 
-I've been working as a software engineer since 2020. I love my job and programming as it is.
+I have been working as a software engineer since 2020, and I can confidently say that programming is my passion :D
 
 #### 🤝 It will be great to collaborate! 
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-Contact_Me-blue?link=https%3A%2F%2Ft.me%2Fskv0zsneg">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-Blog_[RUS]-blue?link=https%3A%2F%2Ft.me%2Fskv0zsnegs">
 </div>
 
-#### 🛠️ My Languages and Tools
+#### 🛠️ I am using
 <div>
   <!-- Back -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
