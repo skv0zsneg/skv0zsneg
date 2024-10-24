@@ -1,4 +1,4 @@
-## Hi, I'm `skv0zsneg` (Kliment Lamonov) 👋
+## Hi, I'm Kliment (`skv0zsneg`) 👋
 
 I have been working as a software engineer since 2020, and I can confidently say that programming is my passion :D
 
